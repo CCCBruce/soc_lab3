@@ -11,4 +11,6 @@ ap_start , ap_done ( measure # of clock cycles from ap_start to ap_done
 ![image](https://github.com/CCCBruce/soc_lab3/assets/145880763/6bbeb5e5-eaae-4009-8fdd-70cbd50aaf8f)
 ![image](https://github.com/CCCBruce/soc_lab3/assets/145880763/838ef3e0-bef8-474b-9a60-94381cc8a208)
 
+clock cycles = (73225-715)/10 = 7251
+
 Xn stream in, and Yn stream out
